@@ -1,4 +1,4 @@
-# "Strata" Jekyll Theme
+# Strata - Jekyll Theme
 
 A Jekyll version of the "Strata" theme by [HTML5 UP](https://html5up.net/).
 
