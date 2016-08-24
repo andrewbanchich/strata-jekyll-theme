@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Strata" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/strata.jpg "Strata Theme")
+![Strata Theme](images/strata.jpg "Strata Theme")
 
 # How to Use
 
